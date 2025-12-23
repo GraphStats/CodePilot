@@ -1,2 +1,81 @@
-# CodePilot 
-"# CodePilot" 
+# 🚀 CodePilot
+
+**CodePilot** est une application pensée **par et pour les développeurs**, qui centralise la gestion de tes projets au même endroit.
+Moins de clics, moins de galères ⚡
+
+---
+
+## ✨ Fonctionnalités
+
+### 🗂️ Espaces & projets
+
+* Crée **plusieurs espaces** (ex: perso, freelance, études, client…)
+* Dans chaque espace, crée **autant de projets que tu veux**
+* Organisation claire et scalable, même avec beaucoup de projets
+
+---
+
+### 🔗 Intégration Git
+
+Pour chaque projet, tu peux :
+
+* Ouvrir le repo **GitHub** ou **GitLab** (si configuré)
+* Accéder au projet en un clic, sans chercher le lien à chaque fois
+
+---
+
+### 📁 Accès rapide au projet
+
+* Ouvrir le **dossier du projet**
+* Ouvrir un **CMD / terminal** directement dans le bon dossier
+
+---
+
+### 📦 Gestion intelligente de npm
+
+* CodePilot lit automatiquement le `package.json`
+* Il détecte toutes les commandes (`scripts`)
+* Tu choisis la commande
+* 👉 Le terminal s’ouvre **avec la commande déjà lancée**
+
+Plus besoin de taper `npm run dev` 50 fois par jour 😌
+
+---
+
+### 🧠 Intégration VS Code & forks
+
+* Ouvre ton projet directement dans :
+
+  * **VS Code**
+  * ou un **fork de VS Code** (Cursor, VSCodium, etc.)
+* Un clic, et t’es prêt à coder 🔥
+
+---
+
+## 🎯 Objectif
+
+CodePilot a pour but de devenir ton **hub principal de dev** :
+
+* Organisation
+* Lancement rapide
+* Zéro friction entre tes outils
+
+Tout est pensé pour te faire gagner du temps et rester focus sur le code.
+
+---
+
+## 🛠️ Statut du projet
+
+🧪 **En cours de développement**
+De nouvelles fonctionnalités sont prévues, et le projet évolue activement.
+
+---
+
+## 💡 Idées futures (roadmap)
+
+* Templates de projets
+* Support d’autres gestionnaires (pnpm, yarn…)
+* Intégration Docker
+* Synchronisation cloud
+* Plugins / extensions
+* Thèmes
