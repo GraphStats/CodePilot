@@ -1,6 +1,7 @@
 # 🚀 CodePilot
 
 **CodePilot** est une application pensée **par et pour les développeurs**, qui centralise la gestion de tes projets au même endroit.
+
 Moins de clics, moins de galères ⚡
 
 ---
@@ -38,7 +39,7 @@ Pour chaque projet, tu peux :
 * Tu choisis la commande
 * 👉 Le terminal s’ouvre **avec la commande déjà lancée**
 
-Plus besoin de taper `npm run dev` 50 fois par jour 😌
+Plus besoin de taper `npm run dev` 50 fois par jour
 
 ---
 
@@ -67,6 +68,7 @@ Tout est pensé pour te faire gagner du temps et rester focus sur le code.
 ## 🛠️ Statut du projet
 
 🧪 **En cours de développement**
+
 De nouvelles fonctionnalités sont prévues, et le projet évolue activement.
 
 ---
